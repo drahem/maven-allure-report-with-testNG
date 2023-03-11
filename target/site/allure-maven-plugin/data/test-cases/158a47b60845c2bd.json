@@ -1,0 +1,100 @@
+{
+  "uid" : "158a47b60845c2bd",
+  "name" : "TestCreateUserWithSerialization",
+  "fullName" : "TestAPIsAdvanced.TestCreateUserWithSerialization",
+  "historyId" : "f448e336ec206d288258c0ec41e71935",
+  "time" : {
+    "start" : 1678552245776,
+    "stop" : 1678552246273,
+    "duration" : 497
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1678552230372,
+      "stop" : 1678552230377,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1678552247461,
+      "stop" : 1678552247461,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestAPIsAdvanced"
+  }, {
+    "name" : "testClass",
+    "value" : "TestAPIsAdvanced"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCreateUserWithSerialization"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAPIsAdvanced"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SI31G4B"
+  }, {
+    "name" : "thread",
+    "value" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "name4"
+  }, {
+    "name" : "arg1",
+    "value" : "job4"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "158a47b60845c2bd.json",
+  "parameterValues" : [ "name4", "job4" ]
+}

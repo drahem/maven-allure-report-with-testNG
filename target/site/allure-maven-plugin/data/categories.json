@@ -1,0 +1,90 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "5ede7a62d9429283",
+        "parentUid" : "ad52afac102e593cfed268f3fb6ef9d0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552236541,
+          "stop" : 1678552236545,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "480d23ae3946c377",
+        "parentUid" : "ad52afac102e593cfed268f3fb6ef9d0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552236746,
+          "stop" : 1678552236747,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad52afac102e593cfed268f3fb6ef9d0"
+    }, {
+      "name" : "C:\\Users\\MK SOLUTION\\IdeaProjects\\seleniumnewproject\\resources\\request1.json (The system cannot find the file specified)",
+      "children" : [ {
+        "name" : "testSendFile",
+        "uid" : "b4b0d2d2f6f80435",
+        "parentUid" : "0e988137391423648be600f93c862e04",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552243687,
+          "stop" : 1678552243712,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestSendFile",
+        "uid" : "727360487fff1442",
+        "parentUid" : "0e988137391423648be600f93c862e04",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552244486,
+          "stop" : 1678552244503,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e988137391423648be600f93c862e04"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [200] but found [201]",
+      "children" : [ {
+        "name" : "testCreateUser",
+        "uid" : "7a204225ec23c8f7",
+        "parentUid" : "6c449d8664cba8b3b14c848823386799",
+        "status" : "failed",
+        "time" : {
+          "start" : 1678552246007,
+          "stop" : 1678552246541,
+          "duration" : 534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c449d8664cba8b3b14c848823386799"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

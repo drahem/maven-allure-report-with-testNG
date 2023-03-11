@@ -1,0 +1,94 @@
+{
+  "uid" : "d87d85ce18e894ce",
+  "name" : "testGetUsesList",
+  "fullName" : "TestAPIS2.testGetUsesList",
+  "historyId" : "8e5b76183fe9f7fe5a8ae94419414ff1",
+  "time" : {
+    "start" : 1678552243263,
+    "stop" : 1678552243682,
+    "duration" : 419
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1678552230372,
+      "stop" : 1678552230377,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1678552247461,
+      "stop" : 1678552247461,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "testClass",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "testMethod",
+    "value" : "testGetUsesList"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SI31G4B"
+  }, {
+    "name" : "thread",
+    "value" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d87d85ce18e894ce.json",
+  "parameterValues" : [ ]
+}

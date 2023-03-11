@@ -1,0 +1,94 @@
+{
+  "uid" : "4eca207bd41dced",
+  "name" : "TestDeSerialization",
+  "fullName" : "TestAPIsAdvanced.TestDeSerialization",
+  "historyId" : "92e954b486f73d99e41b66e025e78951",
+  "time" : {
+    "start" : 1678552243996,
+    "stop" : 1678552244483,
+    "duration" : 487
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1678552230372,
+      "stop" : 1678552230377,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1678552247461,
+      "stop" : 1678552247461,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestAPIsAdvanced"
+  }, {
+    "name" : "testClass",
+    "value" : "TestAPIsAdvanced"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestDeSerialization"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAPIsAdvanced"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SI31G4B"
+  }, {
+    "name" : "thread",
+    "value" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4eca207bd41dced.json",
+  "parameterValues" : [ ]
+}

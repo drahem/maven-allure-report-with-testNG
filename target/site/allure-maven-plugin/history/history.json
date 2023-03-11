@@ -1,0 +1,659 @@
+{
+  "ab9b9195f34e5feeb118a8ee99423386" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "49427fce6d0dc6ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552246554,
+        "stop" : 1678552246555,
+        "duration" : 1
+      }
+    } ]
+  },
+  "2cc8f1c7d841a47be726a17871b8b9ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca3847d332d141ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552246939,
+        "stop" : 1678552247442,
+        "duration" : 503
+      }
+    } ]
+  },
+  "d3036fc28a87f42e5469a764dc1c17d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "336005d7d2c3c418",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552241997,
+        "stop" : 1678552242745,
+        "duration" : 748
+      }
+    } ]
+  },
+  "f8295691fee5dd9a7b112e83fc01106" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df34fc66b28993ea",
+      "status" : "skipped",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552236683,
+        "stop" : 1678552236684,
+        "duration" : 1
+      }
+    } ]
+  },
+  "9e1d6f69f78f96b9e0e2aa299396168b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f06c7d5fd840ea",
+      "status" : "skipped",
+      "statusDetails" : "Method TestGoogleSearch.TestMakeAppointmentAtTokyo()[pri:2, instance:GoogleSearch.TestGoogleSearch@78e94dcf] depends on not successfully finished methods",
+      "time" : {
+        "start" : 1678552247454,
+        "stop" : 1678552247454,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ab74bbc7e0920661143fc104e10c816c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "899dfa17e1c4a9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552238830,
+        "stop" : 1678552240994,
+        "duration" : 2164
+      }
+    } ]
+  },
+  "e320d4022ca423127e907f480ee8bc09" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81b1e393b8ce473e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552246302,
+        "stop" : 1678552246963,
+        "duration" : 661
+      }
+    } ]
+  },
+  "4dc77a339523a9db53f7a6a108658d13" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee69edf73e85db4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552243536,
+        "stop" : 1678552244440,
+        "duration" : 904
+      }
+    } ]
+  },
+  "4393fd34ddae84c8ab074d3b639ba17e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4361e0bfec55e167",
+      "status" : "skipped",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552236754,
+        "stop" : 1678552236755,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c9c65cdc6c99fa19295be2239bd7a76d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "370f0fdc2ad5bba3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552242787,
+        "stop" : 1678552243261,
+        "duration" : 474
+      }
+    } ]
+  },
+  "8e5b76183fe9f7fe5a8ae94419414ff1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d87d85ce18e894ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552243263,
+        "stop" : 1678552243682,
+        "duration" : 419
+      }
+    } ]
+  },
+  "a81d56e50c3dfbd9257934f199ca67e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18015a9dfb87f1a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552244786,
+        "stop" : 1678552245271,
+        "duration" : 485
+      }
+    } ]
+  },
+  "6224309a35e6aace9a4e1d1cec4d3512" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f31086a77b7e7a1",
+      "status" : "skipped",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552236673,
+        "stop" : 1678552236675,
+        "duration" : 2
+      }
+    } ]
+  },
+  "da4e183f1a89e110d8b9ba79434a143a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dbfe3ea8257d9a65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552245415,
+        "stop" : 1678552246934,
+        "duration" : 1519
+      }
+    } ]
+  },
+  "f1a0d300ba6316393a34923d3e209d57" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cac0501092ae6c03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552241004,
+        "stop" : 1678552243377,
+        "duration" : 2373
+      }
+    } ]
+  },
+  "90206313a4b2eb1ab95f2cb1c14da1e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed5d184523deb858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552242938,
+        "stop" : 1678552243502,
+        "duration" : 564
+      }
+    } ]
+  },
+  "292fc4dd1818ad970ccad2eaf986430c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2b482872293a539",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552246561,
+        "stop" : 1678552246565,
+        "duration" : 4
+      }
+    } ]
+  },
+  "523fc2b43ba28d9d7eafe2022d3ff8b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b416c6e0a7f79f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552236766,
+        "stop" : 1678552242832,
+        "duration" : 6066
+      }
+    } ]
+  },
+  "82e5312d1cdafb6314424badd0f8e840" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "727360487fff1442",
+      "status" : "broken",
+      "statusDetails" : "C:\\Users\\MK SOLUTION\\IdeaProjects\\seleniumnewproject\\resources\\request1.json (The system cannot find the file specified)",
+      "time" : {
+        "start" : 1678552244486,
+        "stop" : 1678552244503,
+        "duration" : 17
+      }
+    } ]
+  },
+  "bfa391355d831110b2b4dd09a4339ddb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec901ce4ffd63536",
+      "status" : "skipped",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552236692,
+        "stop" : 1678552236692,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6d8b1174f7c47544540244ed475442b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c7686da7eac5c00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552244508,
+        "stop" : 1678552245327,
+        "duration" : 819
+      }
+    } ]
+  },
+  "f448e336ec206d288258c0ec41e71935" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "158a47b60845c2bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552245776,
+        "stop" : 1678552246273,
+        "duration" : 497
+      }
+    } ]
+  },
+  "af01f5d4960fc75d4f59c68776cc6bc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75b80f6330ba616a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552245275,
+        "stop" : 1678552245771,
+        "duration" : 496
+      }
+    } ]
+  },
+  "2114f5e84360fc40696541779bd6e92b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65992da6c9f2d368",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552243729,
+        "stop" : 1678552244781,
+        "duration" : 1052
+      }
+    } ]
+  },
+  "73afbcc15828ec827073644a08dba0a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ede7a62d9429283",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552236541,
+        "stop" : 1678552236545,
+        "duration" : 4
+      }
+    } ]
+  },
+  "92e954b486f73d99e41b66e025e78951" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4eca207bd41dced",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552243996,
+        "stop" : 1678552244483,
+        "duration" : 487
+      }
+    } ]
+  },
+  "b89ac497e9c891173f2e4f0c26a1d61" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4b0d2d2f6f80435",
+      "status" : "broken",
+      "statusDetails" : "C:\\Users\\MK SOLUTION\\IdeaProjects\\seleniumnewproject\\resources\\request1.json (The system cannot find the file specified)",
+      "time" : {
+        "start" : 1678552243687,
+        "stop" : 1678552243712,
+        "duration" : 25
+      }
+    } ]
+  },
+  "896a7e8d8970959a5ea636507c269e9a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2916e0192d5598bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552245331,
+        "stop" : 1678552245973,
+        "duration" : 642
+      }
+    } ]
+  },
+  "2b6cd90994726611fe64ba14bc9e38ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "480d23ae3946c377",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552236746,
+        "stop" : 1678552236747,
+        "duration" : 1
+      }
+    } ]
+  },
+  "997e62a30f1f1659d458e1ae1130dcd5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9709bac847e87ff5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552243387,
+        "stop" : 1678552243988,
+        "duration" : 601
+      }
+    } ]
+  },
+  "c57ea242a948dcfa2bf45687848cb3ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaaef28eedf4c1f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552244446,
+        "stop" : 1678552245401,
+        "duration" : 955
+      }
+    } ]
+  },
+  "aff312008c7b6fa517af152faaac2cc5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b4e5fbda38074ab",
+      "status" : "skipped",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 111.0.5563.64 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'DESKTOP-SI31G4B', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_312'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]",
+      "time" : {
+        "start" : 1678552238816,
+        "stop" : 1678552238816,
+        "duration" : 0
+      }
+    } ]
+  },
+  "30a6bd9e26a6550f7dfe581570963cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb05bf4dd8d66e89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678552236708,
+        "stop" : 1678552241983,
+        "duration" : 5275
+      }
+    } ]
+  },
+  "eeb9d082d9f371723d3ebb2bfc06b7f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a204225ec23c8f7",
+      "status" : "failed",
+      "statusDetails" : "expected [200] but found [201]",
+      "time" : {
+        "start" : 1678552246007,
+        "stop" : 1678552246541,
+        "duration" : 534
+      }
+    } ]
+  }
+}

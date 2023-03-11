@@ -1,0 +1,94 @@
+{
+  "uid" : "9709bac847e87ff5",
+  "name" : "testLogin",
+  "fullName" : "TestAPIS2.testLogin",
+  "historyId" : "997e62a30f1f1659d458e1ae1130dcd5",
+  "time" : {
+    "start" : 1678552243387,
+    "stop" : 1678552243988,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1678552230372,
+      "stop" : 1678552230377,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1678552247461,
+      "stop" : 1678552247461,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "testClass",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SI31G4B"
+  }, {
+    "name" : "thread",
+    "value" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9709bac847e87ff5.json",
+  "parameterValues" : [ ]
+}

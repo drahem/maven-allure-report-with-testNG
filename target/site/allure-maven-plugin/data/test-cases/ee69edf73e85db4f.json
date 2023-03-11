@@ -1,0 +1,100 @@
+{
+  "uid" : "ee69edf73e85db4f",
+  "name" : "testPOJO",
+  "fullName" : "TestAPIS2.testPOJO",
+  "historyId" : "4dc77a339523a9db53f7a6a108658d13",
+  "time" : {
+    "start" : 1678552243536,
+    "stop" : 1678552244440,
+    "duration" : 904
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1678552230372,
+      "stop" : 1678552230377,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1678552247461,
+      "stop" : 1678552247461,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "testClass",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "testMethod",
+    "value" : "testPOJO"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAPIS2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SI31G4B"
+  }, {
+    "name" : "thread",
+    "value" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-2(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "name1"
+  }, {
+    "name" : "arg1",
+    "value" : "job1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee69edf73e85db4f.json",
+  "parameterValues" : [ "name1", "job1" ]
+}

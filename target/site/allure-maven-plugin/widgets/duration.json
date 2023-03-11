@@ -1,0 +1,341 @@
+[ {
+  "uid" : "480d23ae3946c377",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1678552236746,
+    "stop" : 1678552236747,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dbfe3ea8257d9a65",
+  "name" : "testPOJO",
+  "time" : {
+    "start" : 1678552245415,
+    "stop" : 1678552246934,
+    "duration" : 1519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2916e0192d5598bc",
+  "name" : "pathParameters",
+  "time" : {
+    "start" : 1678552245331,
+    "stop" : 1678552245973,
+    "duration" : 642
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8b416c6e0a7f79f6",
+  "name" : "testCreateUser",
+  "time" : {
+    "start" : 1678552236766,
+    "stop" : 1678552242832,
+    "duration" : 6066
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d87d85ce18e894ce",
+  "name" : "testGetUsesList",
+  "time" : {
+    "start" : 1678552243263,
+    "stop" : 1678552243682,
+    "duration" : 419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed5d184523deb858",
+  "name" : "testCreateUser",
+  "time" : {
+    "start" : 1678552242938,
+    "stop" : 1678552243502,
+    "duration" : 564
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df34fc66b28993ea",
+  "name" : "TestLoginValidData",
+  "time" : {
+    "start" : 1678552236683,
+    "stop" : 1678552236684,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "336005d7d2c3c418",
+  "name" : "testLogin",
+  "time" : {
+    "start" : 1678552241997,
+    "stop" : 1678552242745,
+    "duration" : 748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "899dfa17e1c4a9d",
+  "name" : "testGetActivities",
+  "time" : {
+    "start" : 1678552238830,
+    "stop" : 1678552240994,
+    "duration" : 2164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f06c7d5fd840ea",
+  "name" : "TestMakeAppointmentAtTokyo",
+  "time" : {
+    "start" : 1678552247454,
+    "stop" : 1678552247454,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "370f0fdc2ad5bba3",
+  "name" : "testAPIWithParam",
+  "time" : {
+    "start" : 1678552242787,
+    "stop" : 1678552243261,
+    "duration" : 474
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4361e0bfec55e167",
+  "name" : "TestBookAppointmentAtTokyoAndMedicare",
+  "time" : {
+    "start" : 1678552236754,
+    "stop" : 1678552236755,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4c7686da7eac5c00",
+  "name" : "testGetUsersList",
+  "time" : {
+    "start" : 1678552244508,
+    "stop" : 1678552245327,
+    "duration" : 819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4b0d2d2f6f80435",
+  "name" : "testSendFile",
+  "time" : {
+    "start" : 1678552243687,
+    "stop" : 1678552243712,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "75b80f6330ba616a",
+  "name" : "TestCreateUserWithSerialization",
+  "time" : {
+    "start" : 1678552245275,
+    "stop" : 1678552245771,
+    "duration" : 496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cac0501092ae6c03",
+  "name" : "testGetUsersList",
+  "time" : {
+    "start" : 1678552241004,
+    "stop" : 1678552243377,
+    "duration" : 2373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a204225ec23c8f7",
+  "name" : "testCreateUser",
+  "time" : {
+    "start" : 1678552246007,
+    "stop" : 1678552246541,
+    "duration" : 534
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "49427fce6d0dc6ec",
+  "name" : "TestResourcesDataIDAndYear",
+  "time" : {
+    "start" : 1678552246554,
+    "stop" : 1678552246555,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f31086a77b7e7a1",
+  "name" : "TestLoginInvalidData",
+  "time" : {
+    "start" : 1678552236673,
+    "stop" : 1678552236675,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "158a47b60845c2bd",
+  "name" : "TestCreateUserWithSerialization",
+  "time" : {
+    "start" : 1678552245776,
+    "stop" : 1678552246273,
+    "duration" : 497
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "727360487fff1442",
+  "name" : "TestSendFile",
+  "time" : {
+    "start" : 1678552244486,
+    "stop" : 1678552244503,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65992da6c9f2d368",
+  "name" : "TestCreateUserWithSerialization",
+  "time" : {
+    "start" : 1678552243729,
+    "stop" : 1678552244781,
+    "duration" : 1052
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b4e5fbda38074ab",
+  "name" : "DDTTestCase",
+  "time" : {
+    "start" : 1678552238816,
+    "stop" : 1678552238816,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ee69edf73e85db4f",
+  "name" : "testPOJO",
+  "time" : {
+    "start" : 1678552243536,
+    "stop" : 1678552244440,
+    "duration" : 904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9709bac847e87ff5",
+  "name" : "testLogin",
+  "time" : {
+    "start" : 1678552243387,
+    "stop" : 1678552243988,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ede7a62d9429283",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1678552236541,
+    "stop" : 1678552236545,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "aaaef28eedf4c1f6",
+  "name" : "testPOJO",
+  "time" : {
+    "start" : 1678552244446,
+    "stop" : 1678552245401,
+    "duration" : 955
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec901ce4ffd63536",
+  "name" : "TestGoogleSearch",
+  "time" : {
+    "start" : 1678552236692,
+    "stop" : 1678552236692,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d2b482872293a539",
+  "name" : "testResourcesColor",
+  "time" : {
+    "start" : 1678552246561,
+    "stop" : 1678552246565,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb05bf4dd8d66e89",
+  "name" : "TestResourcesDataBasic",
+  "time" : {
+    "start" : 1678552236708,
+    "stop" : 1678552241983,
+    "duration" : 5275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18015a9dfb87f1a7",
+  "name" : "TestCreateUserWithSerialization",
+  "time" : {
+    "start" : 1678552244786,
+    "stop" : 1678552245271,
+    "duration" : 485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4eca207bd41dced",
+  "name" : "TestDeSerialization",
+  "time" : {
+    "start" : 1678552243996,
+    "stop" : 1678552244483,
+    "duration" : 487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81b1e393b8ce473e",
+  "name" : "testGetListUsers",
+  "time" : {
+    "start" : 1678552246302,
+    "stop" : 1678552246963,
+    "duration" : 661
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ca3847d332d141ae",
+  "name" : "testPOJO",
+  "time" : {
+    "start" : 1678552246939,
+    "stop" : 1678552247442,
+    "duration" : 503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

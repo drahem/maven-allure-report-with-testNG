@@ -1,0 +1,16 @@
+deserialize\usersListDeSerialize.class
+TestAPIs.class
+deserialize\resourcesDeSerialize.class
+GoogleSearch\TestCuraApp.class
+GoogleSearch\TestGoogleSearch.class
+playWrightTest.class
+TestAPIS2.class
+TestAPIsAdvanced.class
+util\readFile.class
+deserialize\createUserResponse.class
+deserialize\userListData.class
+serialization\createUserSer.class
+serialization\createRequest.class
+deserialize\resoucesData.class
+TestUsers.class
+serialization\TestResources.class

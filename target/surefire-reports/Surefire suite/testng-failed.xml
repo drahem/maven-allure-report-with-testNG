@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" verbose="0" name="Failed suite [Surefire suite]" parallel="methods">
+  <test thread-count="3" verbose="0" name="Surefire test(failed)" parallel="methods">
+    <classes>
+      <class name="TestUsers">
+        <methods>
+          <include name="testCreateUser"/>
+        </methods>
+      </class> <!-- TestUsers -->
+      <class name="GoogleSearch.TestGoogleSearch">
+        <methods>
+          <include name="TestMakeAppointmentAtTokyo"/>
+          <include name="initDriver"/>
+          <include name="TestLoginInvalidData"/>
+          <include name="endTest"/>
+          <include name="TestLoginValidData"/>
+          <include name="TestGoogleSearch"/>
+        </methods>
+      </class> <!-- GoogleSearch.TestGoogleSearch -->
+      <class name="TestAPIS2">
+        <methods>
+          <include name="testSendFile"/>
+        </methods>
+      </class> <!-- TestAPIS2 -->
+      <class name="GoogleSearch.TestCuraApp">
+        <methods>
+          <include name="DDTTestCase"/>
+          <include name="TestBookAppointmentAtTokyoAndMedicare"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- GoogleSearch.TestCuraApp -->
+      <class name="TestAPIsAdvanced">
+        <methods>
+          <include name="TestSendFile"/>
+        </methods>
+      </class> <!-- TestAPIsAdvanced -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

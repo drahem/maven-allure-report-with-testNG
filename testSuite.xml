@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="APISTESTSUITE" parallel="classes" thread-count="10">
+    <test name="DESerializationTest" >
+        <classes>
+            <class name="TestUsers"></class>
+            <class name="TestAPIsAdvanced"></class>
+            <class name="TestAPIs"></class>
+            <class name="TestAPIS2"></class>
+        </classes>
+    </test>
+
+</suite>

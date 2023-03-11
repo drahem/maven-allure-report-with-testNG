@@ -1,0 +1,489 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SI31G4B",
+    "children" : [ {
+      "name" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-2(14)",
+      "children" : [ {
+        "name" : "testPOJO",
+        "uid" : "ca3847d332d141ae",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552246939,
+          "stop" : 1678552247442,
+          "duration" : 503
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name4", "job4" ]
+      }, {
+        "name" : "testCreateUser",
+        "uid" : "ed5d184523deb858",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552242938,
+          "stop" : 1678552243502,
+          "duration" : 564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookAppointmentAtTokyoAndMedicare",
+        "uid" : "4361e0bfec55e167",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552236754,
+          "stop" : 1678552236755,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMakeAppointmentAtTokyo",
+        "uid" : "1f06c7d5fd840ea",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552247454,
+          "stop" : 1678552247454,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testPOJO",
+        "uid" : "ee69edf73e85db4f",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552243536,
+          "stop" : 1678552244440,
+          "duration" : 904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name1", "job1" ]
+      }, {
+        "name" : "testPOJO",
+        "uid" : "aaaef28eedf4c1f6",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552244446,
+          "stop" : 1678552245401,
+          "duration" : 955
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name2", "job2" ]
+      }, {
+        "name" : "testCreateUser",
+        "uid" : "8b416c6e0a7f79f6",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552236766,
+          "stop" : 1678552242832,
+          "duration" : 6066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testPOJO",
+        "uid" : "dbfe3ea8257d9a65",
+        "parentUid" : "6befaf284cc231842dfe26ff50fdd941",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552245415,
+          "stop" : 1678552246934,
+          "duration" : 1519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name3", "job3" ]
+      } ],
+      "uid" : "6befaf284cc231842dfe26ff50fdd941"
+    }, {
+      "name" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-3(15)",
+      "children" : [ {
+        "name" : "TestCreateUserWithSerialization",
+        "uid" : "18015a9dfb87f1a7",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552244786,
+          "stop" : 1678552245271,
+          "duration" : 485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name2", "job2" ]
+      }, {
+        "name" : "TestCreateUserWithSerialization",
+        "uid" : "65992da6c9f2d368",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552243729,
+          "stop" : 1678552244781,
+          "duration" : 1052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name1", "job1" ]
+      }, {
+        "name" : "TestGoogleSearch",
+        "uid" : "ec901ce4ffd63536",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552236692,
+          "stop" : 1678552236692,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLoginInvalidData",
+        "uid" : "2f31086a77b7e7a1",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552236673,
+          "stop" : 1678552236675,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testAPIWithParam",
+        "uid" : "370f0fdc2ad5bba3",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552242787,
+          "stop" : 1678552243261,
+          "duration" : 474
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "5ede7a62d9429283",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552236541,
+          "stop" : 1678552236545,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestResourcesDataBasic",
+        "uid" : "cb05bf4dd8d66e89",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552236708,
+          "stop" : 1678552241983,
+          "duration" : 5275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testSendFile",
+        "uid" : "b4b0d2d2f6f80435",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552243687,
+          "stop" : 1678552243712,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLoginValidData",
+        "uid" : "df34fc66b28993ea",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552236683,
+          "stop" : 1678552236684,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLogin",
+        "uid" : "336005d7d2c3c418",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552241997,
+          "stop" : 1678552242745,
+          "duration" : 748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testGetListUsers",
+        "uid" : "81b1e393b8ce473e",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552246302,
+          "stop" : 1678552246963,
+          "duration" : 661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testGetUsesList",
+        "uid" : "d87d85ce18e894ce",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552243263,
+          "stop" : 1678552243682,
+          "duration" : 419
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestCreateUserWithSerialization",
+        "uid" : "158a47b60845c2bd",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552245776,
+          "stop" : 1678552246273,
+          "duration" : 497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name4", "job4" ]
+      }, {
+        "name" : "TestCreateUserWithSerialization",
+        "uid" : "75b80f6330ba616a",
+        "parentUid" : "836885c65e65661bef265263d218ed65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552245275,
+          "stop" : 1678552245771,
+          "duration" : 496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "name3", "job3" ]
+      } ],
+      "uid" : "836885c65e65661bef265263d218ed65"
+    }, {
+      "name" : "15944@DESKTOP-SI31G4B.TestNG-test=Surefire test-1(13)",
+      "children" : [ {
+        "name" : "testGetActivities",
+        "uid" : "899dfa17e1c4a9d",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552238830,
+          "stop" : 1678552240994,
+          "duration" : 2164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCreateUser",
+        "uid" : "7a204225ec23c8f7",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "failed",
+        "time" : {
+          "start" : 1678552246007,
+          "stop" : 1678552246541,
+          "duration" : 534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "480d23ae3946c377",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552236746,
+          "stop" : 1678552236747,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestDeSerialization",
+        "uid" : "4eca207bd41dced",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552243996,
+          "stop" : 1678552244483,
+          "duration" : 487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testResourcesColor",
+        "uid" : "d2b482872293a539",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552246561,
+          "stop" : 1678552246565,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testGetUsersList",
+        "uid" : "4c7686da7eac5c00",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552244508,
+          "stop" : 1678552245327,
+          "duration" : 819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "DDTTestCase",
+        "uid" : "84deb5606a79cc93",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552238781,
+          "stop" : 1678552238782,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "DDTTestCase",
+        "uid" : "5b4e5fbda38074ab",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552238816,
+          "stop" : 1678552238816,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestSendFile",
+        "uid" : "727360487fff1442",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678552244486,
+          "stop" : 1678552244503,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLogin",
+        "uid" : "9709bac847e87ff5",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552243387,
+          "stop" : 1678552243988,
+          "duration" : 601
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "DDTTestCase",
+        "uid" : "22ee43de0f7c3e0a",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1678552238808,
+          "stop" : 1678552238810,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pathParameters",
+        "uid" : "2916e0192d5598bc",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552245331,
+          "stop" : 1678552245973,
+          "duration" : 642
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testGetUsersList",
+        "uid" : "cac0501092ae6c03",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552241004,
+          "stop" : 1678552243377,
+          "duration" : 2373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestResourcesDataIDAndYear",
+        "uid" : "49427fce6d0dc6ec",
+        "parentUid" : "6604ef4ee646fa1829699d70d4625e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678552246554,
+          "stop" : 1678552246555,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6604ef4ee646fa1829699d70d4625e53"
+    } ],
+    "uid" : "44053e88134ff900b470b36ab4b7d088"
+  } ]
+}
